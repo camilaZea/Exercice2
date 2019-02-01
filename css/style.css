@@ -74,10 +74,11 @@ body {
   
   .header,
   .footer {
-    background-color: #999;
+    background-color:#f8d1ff;
+    
   }
   
   .sidebar2 {
-    background-color: #ccc;
+    background-color:#f9caca;
     color: #444;
   }

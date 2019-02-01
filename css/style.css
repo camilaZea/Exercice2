@@ -4,6 +4,7 @@ body {
   
   .sidebar {
           grid-area: sidebar;
+          background-color: #d6c9c9;
       }
   
       .sidebar2 {
